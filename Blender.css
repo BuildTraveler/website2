@@ -1,0 +1,173 @@
+p.blue_wave {
+    text-align: start;
+    color: rgb(255, 255, 255);
+    padding-left: 160px;  
+  }
+p.retro_lights {
+    text-align: start;
+    color: rgb(255, 255, 255);
+    padding-left: 500px;
+    display: inline-block;
+    width: 200px;
+}
+p.blue_ball {
+  color: rgb(255, 255, 255);
+  padding-right: 153px;
+}
+h1 {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-family: 'Arial Black';
+}
+h2 {
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-family:'Bahnschrift SemiBold';
+}
+a.blue_wave:link, a.blue_wave:visited {
+  background-color: #ea7600;
+  color: #ffffff;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: dashed;
+  display: grid;
+  width: 334px;
+
+}
+a.blue_wave:hover, a.blue_wave:active {
+  background-color: #212534;
+}
+a.blue_wave_mp4:link, a.blue_wave_mp4:visited {
+  background-color: #ea7600;
+  color: #ffffff;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: dashed;
+  display: grid;
+  width: 334px;
+  position: relative; bottom: 43.5px;
+}
+a.blue_wave_mp4:hover, a.blue_wave_mp4:active {
+  background-color: #29bb9b;
+}
+a.retro_lights:link, a.retro_lights:visited {
+  background-color: #ea7600;
+  color: #ffffff;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: dashed;
+  display: grid;
+  width: 334px;
+  position: relative; left: 185px;
+}
+a.retro_lights:hover, a.retro_lights:active {
+  background-color: #212534;
+}
+a.retro_lights_mp4:link, a.retro_lights_mp4:visited {
+  background-color: #ea7600;
+  color: #ffffff;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: dashed;
+  display: grid;
+  width: 334px;
+  position: relative; left: 185px; bottom: 43.5px;
+}
+a.retro_lights_mp4:hover, a.retro_lights_mp4:active {
+  background-color: #29bb9b;
+}
+img.retro_lights{
+  position: relative; left: 185px;
+}
+a.blue_ball:link, a.blue_ball:visited {
+  background-color: #ea7600;
+  color: #ffffff;
+  padding: 14px 25px; 
+  text-align: center;
+  text-decoration: dashed;
+  display: grid;
+  width: 334px;
+  position: relative; left: 1135px; bottom: 47px;
+}
+a.blue_ball:hover, a.blue_ball:active {
+  background-color: #212534;
+}
+a.home_page:link, a.home_page:visited {
+  background-color: #515151;
+  color: #ffffff;
+  padding: 14px 25px; 
+  text-align: center;
+  text-decoration: dashed;
+  display: grid;
+  width: 334px;
+  position: relative; bottom: 350px; left: 569px;
+}
+a.home_page:hover, a.home_page:active {
+  background-color: #1d1d1d;
+}
+a.minecraft_page:link, a.minecraft_page:visited {
+  background-color: #515151;
+  color: #ffffff;
+  padding: 14px 25px; 
+  text-align: center;
+  text-decoration: dashed;
+  display: grid;
+  width: 334px;
+  position: relative; bottom: 396px; left: 953px;
+}
+a.minecraft_page:hover, a.minecraft_page:active {
+  background-color: #1d1d1d;
+}
+a.rick_roll_page:link, a.rick_roll_page:visited {
+  background-color: #515151;
+  color: #ffffff;
+  padding: 14px 25px; 
+  text-align: center;
+  text-decoration: dashed;
+  display: grid;
+  width: 334px;
+  position: relative; bottom: 443px; left: 185px;
+}
+a.rick_roll_page:hover, a.rick_roll_page:active {
+  background-color: #1d1d1d;
+}
+nav ul li {
+  list-style-type: none;
+  display: inline;
+  margin-right: 10px;
+  margin-left: 10px;
+  text-align: center;
+}
+nav ul {
+background-color: #212534;
+border-style: solid;
+border-color:  #212534;
+border-width: 2px;
+padding: 10px;
+text-align: center;
+}
+a.navigation {
+  color: rgb(255, 255, 255);
+}
+body {
+  background: #212534;
+}
+div.gallery {
+  margin: 5px;
+  border: 2px solid rgb(119, 119, 119);
+  float: left;
+  width: 487px;
+}
+div.gallery:hover {
+  border: 2px solid #333a52;
+}
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+div.desc {
+  padding: 15px;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  
+}

@@ -1,0 +1,33 @@
+nav ul li {
+    list-style-type: none;
+    display: inline;
+    margin-right: 10px;
+    margin-left: 10px;
+    text-align: center;
+}
+  nav ul {
+  background-color: #212534;
+  border-style: solid;
+  border-color:  #212534;
+  border-width: 2px;
+  padding: 10px;
+  text-align: center;
+}
+
+  a.navigation {
+    color: rgb(255, 255, 255);
+}
+
+h1 {
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+h3 {
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+
+body {
+    background: #212534;
+  }

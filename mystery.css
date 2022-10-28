@@ -1,0 +1,42 @@
+nav ul li {
+    list-style-type: none;
+    display: inline;
+    margin-right: 10px;
+    margin-left: 10px;
+    text-align: center;
+}
+  nav ul {
+  background-color: #212534;
+  border-style: solid;
+  border-color:  #212534;
+  border-width: 2px;
+  padding: 10px;
+  text-align: center;
+}
+
+  a.navigation {
+    color: rgb(255, 255, 255);
+}
+
+
+
+a.Button:link, a.Button:visited {
+    background-color: #515151;
+    color: #ffffff;
+    padding: 14px 25px; 
+    text-align: center;
+    text-decoration: dashed;
+    display: grid;
+    width: 334px;
+    margin: 0 auto;
+    position: relative; top: 290px;
+}
+  
+a.Button:hover, a.Button:active {
+    background-color: #212534;
+}
+
+
+body {
+    background: #212534;
+  }

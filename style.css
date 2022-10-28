@@ -1,0 +1,114 @@
+h1.titel {
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+a.link_blender:link, a.link_blender:visited {
+    background-color: #515151;
+    color: #ffffff;
+    padding: 14px 25px; 
+    text-align: center;
+    text-decoration: dashed;
+    display: grid;
+    width: 334px;
+    position: relative; left: 567px;
+}
+  
+a.link_blender:hover, a.link_blender:active {
+    background-color: #1b1b1b;
+}
+
+a.link_rick_roll:link, a.link_rick_roll:visited {
+    background-color: #515151;
+    color: #ffffff;
+    padding: 14px 25px; 
+    text-align: center;
+    text-decoration: dashed;
+    display: grid;
+    width: 334px;
+    position: relative; left: 567px;
+  }
+  
+  a.link_rick_roll:hover, a.link_rick_roll:active {
+    background-color: #1d1d1d;
+  }
+  
+  a.link_minecraft:link, a.link_minecraft:visited {
+    background-color: #515151;
+    color: #ffffff;
+    padding: 14px 25px; 
+    text-align: center;
+    text-decoration: dashed;
+    display: grid;
+    width: 334px;
+    position: relative;left: 567px;
+  }
+  
+  a.link_minecraft:hover, a.link_minecraft:active {
+    background-color: #1d1d1d;
+  }
+
+nav ul li {
+  list-style-type: none;
+  display: inline;
+  margin-right: 10px;
+  margin-left: 10px;
+  text-align: center;
+}
+nav ul {
+background-color: #212534;
+border-style: solid;
+border-color:  #212534;
+border-width: 2px;
+padding: 10px;
+text-align: center;
+}
+
+
+
+a.navigation {
+  color: rgb(255, 255, 255);
+}
+
+
+@property --rotate {
+  syntax: "<angle>";
+  initial-value: 132deg;
+  inherits: false;
+}
+
+:root {
+  --card-height: 65vh;
+  --card-width: calc(var(--card-height) / 1.5);
+}
+
+body {
+  background-color: #212534;
+  padding: 0 3rem;
+}
+
+div.about {
+  color: white;
+}
+
+h1.about {
+  font-family: 'Arial Black';
+
+}
+
+p.about{
+  font-family: 'Arial BLack';
+  margin-left: 25px;
+  width: 350px;
+}
+
+img.about {
+  width: auto;
+  height: 250px;
+  border-radius:2%;
+}
+
+a{
+  color: white;
+}
+
